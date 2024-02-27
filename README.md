@@ -1,0 +1,2 @@
+# AISyntheticData
+AI Generation SyntheticData
